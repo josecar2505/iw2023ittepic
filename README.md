@@ -18,16 +18,17 @@ Práctica Unidad 1 - GIT
 5.	Escribir todos los comandos utilizados en la práctica y hacer commit
 
   	git add README.md
+  	git commit -m "Initial commit"
 
-6.	Subir los cambios al repositorio remoto (PUSH)
+7.	Subir los cambios al repositorio remoto (PUSH)
 
   	git push 
 
-7.	Crear archivo llamado privado.txt
+8.	Crear archivo llamado privado.txt
 
   	touch privado.txt
 
-8.	Crear carpeta llamada privada.txt
+9.	Crear carpeta llamada privada.txt
 
   	mkdir privada.txt
 
